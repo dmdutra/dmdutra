@@ -4,14 +4,3 @@ Currently working with containers, GitHub Actions, Terraform and Amazon web serv
 
 ### Ports maintained by me:
 https://portscout.freebsd.org/0xdutra@gmail.com.html
-
-### Some of my areas' of interest are:
-
- * Rust, Golang and Python languages
- * Cloud security
- * Containers
- * FreeBSD
-
-[website]: https://dmdutra.github.io
-[twitter]: https://twitter.com/dmdutra_
-[linkedin]: https://linkedin.com/in/dmdutra/
