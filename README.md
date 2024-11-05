@@ -1,4 +1,4 @@
-I'm working from home and currently using [Chimera Linux](https://chimera-linux.org/). My IDE is Neovim. :)
+I'm working from home. My IDE is Linux and Neovim. :)
 
 Find me on:
 * https://dmdutra.github.io
